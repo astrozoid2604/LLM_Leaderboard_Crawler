@@ -1,0 +1,7 @@
+pyspellchecker
+huggingface-hub
+pandas
+scipy
+spellchecker
+transformers
+language_tool_python
